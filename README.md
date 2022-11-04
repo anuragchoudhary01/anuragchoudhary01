@@ -9,3 +9,4 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragchoudhary01&theme=solarized) 
